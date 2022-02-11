@@ -1,4 +1,4 @@
-# Mi-Primer-Repositorio
-Mi Primer Repositorio en Github
+# Github
+Mi Primer Repositorio.
 
 Autor. Diego Peñaloza Juárez
